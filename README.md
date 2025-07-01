@@ -11,6 +11,14 @@
   - Major : C#, Smart Factory, IoT Development
   - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
  
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jisangaaa&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jisangaaa"
+  width="600"
+  height="300"
+/>
+</a>
+ 
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
