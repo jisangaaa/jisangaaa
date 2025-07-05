@@ -76,8 +76,8 @@
 ## Project List
 - [Website] [Book RentalShop Project](https://github.com/jszxro/PK_miniproject_3)
 - [Website] [생필품 최저가 가격비교 Project](https://github.com/BSEom/teamP_t1)
-- [Selenium] [Selenium](https://github.com/jisangaaa/python_selenium)
-- [personal] [personal](https://github.com/jisangaaa/HTML_LOGIN)
-- [personal] [personal](https://github.com/jisangaaa/stopwatch)
+- [Selenium] [Selenium Project](https://github.com/jisangaaa/python_selenium)
+- [personal] [personal Login Project](https://github.com/jisangaaa/HTML_LOGIN)
+- [personal] [personal Stopwatch Project](https://github.com/jisangaaa/stopwatch)
   
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
