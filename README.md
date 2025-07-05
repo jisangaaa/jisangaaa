@@ -9,7 +9,7 @@
 - `Email` : wltkd6881@naver.com
 - 🔭 I'm currently working as an **Java instructor**
   - Major : Python, Java, Javascript, HTML/CSS
-  - React, Oracle, MySQL, Visual Studio
+  - React, Oracle, MySQL, Spring Boot, Visual Studio
 
  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jisangaaa&utm_content=farm">
 <img
