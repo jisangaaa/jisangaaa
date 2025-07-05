@@ -74,11 +74,10 @@
 -->
 
 ## Project List
-- [Website] [Personal Portfolio site](https://hugoMGSung.github.io)
-- [WinForm] [WinForms프로젝트](https://github.com/hugoMGSung/works-need-it-csharp/tree/main/miniprojects/ITS_CCTV_App)
-- [WPF] [WPF프로젝트](https://github.com/hugoMGSung/works-need-it-cshap/tree/main/studyWpf/portfolio)
-- [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
-- [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
-- [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024)
-
+- [Website] [Book RentalShop Project](https://github.com/jszxro/PK_miniproject_3)
+- [Website] [생필품 최저가 가격비교 Project](https://github.com/BSEom/teamP_t1)
+- [Selenium] [Selenium](https://github.com/jisangaaa/python_selenium)
+- [personal] [personal](https://github.com/jisangaaa/HTML_LOGIN)
+- [personal] [personal](https://github.com/jisangaaa/stopwatch)
+  
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
